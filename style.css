@@ -1,0 +1,13 @@
+body{
+    padding-bottom: 30px !important;
+}
+.jumbotron{
+    margin-bottom: 0 !important;
+}
+#abotTop{
+    padding-top: 5px !important;
+    padding-bottom: 10px !important;
+}
+.year{
+    font-size: 78px !important;
+}
